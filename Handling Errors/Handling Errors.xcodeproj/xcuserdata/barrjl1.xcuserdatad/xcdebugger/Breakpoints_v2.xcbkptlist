@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1AA31ADF-98DB-4139-A2CD-A7CED1578ABB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E664E5D0-FF8E-4C58-9A29-BF40DB39E028"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Handling Errors/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E664E5D0-FF8E-4C58-9A29-BF40DB39E028 - 5970aac3c042e245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Handling_Errors.ContentView.body.getter : some"
+                  moduleName = "Handling Errors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barrjl1/Desktop/ios-Apps/Projects/Handling%20Errors/Handling%20Errors/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "E664E5D0-FF8E-4C58-9A29-BF40DB39E028 - 5970aac3c042e3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Handling_Errors.ContentView.body.getter : some"
+                  moduleName = "Handling Errors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barrjl1/Desktop/ios-Apps/Projects/Handling%20Errors/Handling%20Errors/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "E664E5D0-FF8E-4C58-9A29-BF40DB39E028 - 5970aac3c042e3a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Handling_Errors.ContentView.body.getter : some"
+                  moduleName = "Handling Errors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/barrjl1/Desktop/ios-Apps/Projects/Handling%20Errors/Handling%20Errors/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
